@@ -4,6 +4,7 @@ Use this simple bug report template to standardize your company’s software bug
 This reusable template is available in Excel as an individual bug template and also as a Google Sheets template that you can easily save to your Google Drive account.
 
 ![image](https://user-images.githubusercontent.com/105497741/170855961-9474c5c2-7e1e-4a4e-bd73-eed2f3ffd9ee.png)
+                                                 
                                                  Download Simple Bug Report Template
                                                  Excel | Google Sheets | Smartsheet
  
@@ -43,7 +44,7 @@ This bug report form is a perfect fit for companies that want a simple form on w
 ![image](https://user-images.githubusercontent.com/105497741/170856360-c643ead5-5fad-4747-ae4b-2a204e7bc9ec.png)
 
                                                           Download Bug Report Form
-                                              Excel | Word | PDF | Google Sheets | Google Docs | Smartsheet
+                                          https://www.smartsheet.com/file/ic-software-bug-report-form-template-10591xlsx
 # Softwar Bug Report Form
 
 This software-specific bug report form allows you to enter all the information relevant to a bug found during testing or when using a software application. Once you’ve entered all the information, your company’s software engineers can begin to remedy the issue. Unique in its inclusion of all the major fields you’ll need to file a software bug, this simple form gives you the ability to detail the following information, so software engineers can triage the issue and fix it as soon as possible:
@@ -64,7 +65,7 @@ This software-specific bug report form allows you to enter all the information r
 
 ![image](https://user-images.githubusercontent.com/105497741/170856698-8d6d41a8-5e4e-46e1-a773-7a7d86aadfdf.png)
                                      Download Software Bug Report Form
-                                              https://www.smartsheet.com/file/ic-software-bug-report-form-template-10591xlsx
+                                      https://www.smartsheet.com/file/ic-software-bug-report-form-template-10591xlsx
                                               
 # Software Defect Report Template
 
@@ -98,7 +99,7 @@ This bug report is designed for companies who want to provide their customer ser
 
  ![image](https://user-images.githubusercontent.com/105497741/170856860-f814e435-f5c4-4fff-96fb-2e3baa915546.png)
                                       Download Software Defect Report Template
-                                                  https://docs.google.com/spreadsheets/d/18BdVTa1ZDsS0SqqRUrrMsbBJ5oQhBotRCtMGY_QbiY0/edit?usp=sharing
+                                      https://docs.google.com/spreadsheets/d/18BdVTa1ZDsS0SqqRUrrMsbBJ5oQhBotRCtMGY_QbiY0/edit?usp=sharing
                                                   
 # Bug Sheet Template
 Designed with comprehensiveness in mind, this bug sheet template allows you to factor in all the pertinent details relating to a software bug. Armed with this template, your developers will have all the information they need to fix the bug. You can easily fill in the following details related to a specific bug ID: the name of the tester; the date the bug was submitted; the title of the bug; a description of the bug; the URL where the bug was encountered (if applicable); a summary of the issue; a screenshot showing the bug’s behavior; the platform on which the bug was encountered; the browser used (if an online bug); the name of the team member to whom the bug is assigned; the date and time during which it was assigned, its priority compared to other bugs; and its severity.
@@ -107,7 +108,7 @@ This form is available in Excel and Word as individual annual templates for comp
 
 ![image](https://user-images.githubusercontent.com/105497741/170856983-eea3a934-2d1a-496f-a00a-fdb78758d19d.png)
                                                  Download Bug Sheet Template
-                                                            https://docs.google.com/spreadsheets/d/1as-OnMtIbEIS6han2sD7kn316I_3sjHvuLh5Ju0b3gA/edit?usp=sharing
+                                                 https://docs.google.com/spreadsheets/d/1as-OnMtIbEIS6han2sD7kn316I_3sjHvuLh5Ju0b3gA/edit?usp=sharing
  
 # Bug Summary Report Template
 
@@ -140,7 +141,9 @@ Use this simple, streamlined bug summary report template to quickly summarize th
 ![image](https://user-images.githubusercontent.com/105497741/170857209-84666317-9f6c-4614-b718-cd78382bde2f.png)
                                        
                                       Download Bug Summary Report Template
-                                              https://docs.google.com/document/d/1GpTVkCt-DGNyCT8VrJVbApArcaToKIFwrIlzW24_jlk/edit?usp=sharing
+                                             
+                                       https://docs.google.com/document/d/1GpTVkCt-DGNyCT8VrJVbApArcaToKIFwrIlzW24_jlk/edit?usp=sharing
+
 # QA Bug Report Template
 
 Use this comprehensive bug report template designed specifically for the people who need it most: your quality assurance team. QA employees test software to ensure that it works the way it was designed; they also test it to take note of what doesn’t work. This template tracks the bugs you uncover to provide you with a ready-made, out-of-the-box QA bug report, rather than a one-off bug filing. This template gives QA personnel everything they need, including the following:
@@ -182,9 +185,9 @@ Use this comprehensive bug report template designed specifically for the people 
 - Fixed by: Who fixed the bug?
 
 - Planned Fix Build #: In what software build will the bug fix be released? 
-- ![image](https://user-images.githubusercontent.com/105497741/170857363-59a72551-2cd6-4d12-b6bd-aa759f9bf453.png)
--                                         Download QA Bug Report Template
--                                         https://docs.google.com/document/d/1ojKfVJe4fN_Xo0dxUadtjy30EOC2r1T88AASQbIO2mM/edit?usp=sharing
+ ![image](https://user-images.githubusercontent.com/105497741/170857363-59a72551-2cd6-4d12-b6bd-aa759f9bf453.png)
+                                        Download QA Bug Report Template
+                                        https://docs.google.com/document/d/1ojKfVJe4fN_Xo0dxUadtjy30EOC2r1T88AASQbIO2mM/edit?usp=sharing
 
 # Sample Bug Report Template
 
