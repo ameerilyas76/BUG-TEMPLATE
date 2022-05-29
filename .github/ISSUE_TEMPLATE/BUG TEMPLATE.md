@@ -202,7 +202,7 @@ But, how do you track these defects? Your organization needs ensure that you tra
 
 Whether a bug is found by a customer service representative, a member of QA, a developer, or even a client, you need an easy way to provide enough detail, so that you can queue up and correct the bug.
 
-Choose a free template in one of the following formats to immediately get started filing the bugs you find:
+### Choose a free template in one of the following formats to immediately get started filing the bugs you find:
 
 - Microsoft Excel
 
@@ -248,7 +248,8 @@ Choose a free template in one of the following formats to immediately get starte
 
 ### Fixed by: Specify who fixed the bug. Planned Fix Build #: Specify the software build for which the bug fix is targeted.
 
-Improve Bug Tracking with Smartsheet for IT & Ops
+# Improve Bug Tracking with Smartsheet for IT & Ops
+
 Empower your people to go above and beyond with a flexible platform designed to match the needs of your team — and adapt as those needs change. 
 
 The Smartsheet platform makes it easy to plan, capture, manage, and report on work from anywhere, helping your team be more effective and get more done. Report on key metrics and get real-time visibility into work as it happens with roll-up reports, dashboards, and automated workflows built to keep your team connected and informed. 
